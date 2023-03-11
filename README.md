@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, my name is Bianca </h1>
-<h2 align= "center" >I am a fullstack developer ✨ </h2>
+<h2 align= "center" >I am a fullstack developer</h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <h1 💻Tech Stack </h1> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+  <h1 💻Tech Stack </h1> 
 
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
