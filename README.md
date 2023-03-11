@@ -1,4 +1,4 @@
-<h1 align="center" >Hi there, my name is Bianca </h1>
+<h1 align="center" >Hi, my name is Bianca </h1>
 <h2 align= "center" >I am a fullstack developer ✨ </h2>
 
 <div align="center">
@@ -7,6 +7,8 @@
        alt="snake" /></a>
 </div>
 
+
+<div align="center">
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 
@@ -29,4 +31,4 @@
 
 ![BiancaRamirez94's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&theme=tokyonight&layout=compact)
 
-
+</div>
