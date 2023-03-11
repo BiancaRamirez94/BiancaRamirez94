@@ -23,7 +23,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![BiancaRamirez94 github stats](https://github-readme-stats.vercel.app/api?username=BiancaRamirez94&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaRamirez9&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaRamirez9&theme=tokyonight"/>
 ![BiancaRamirez94's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&theme=tokyonight&layout=compact)
 
 
