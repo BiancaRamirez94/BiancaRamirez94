@@ -16,3 +16,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- 📫 How to reach me **ramirbia000@gmail.com**
+- 🤝 I’m available for freelancing.
