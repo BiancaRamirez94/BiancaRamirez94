@@ -14,6 +14,4 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaRamirez94&theme=aura)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
