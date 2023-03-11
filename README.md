@@ -22,7 +22,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaRamirez94&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Beethedev" /></p>
+![BiancaRamirez94 github stats](https://github-readme-stats.vercel.app/api?username=BiancaRamirez94&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaRamirez9&theme=tokyonight" alt="mystreak"/>
+![BiancaRamirez94's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&theme=tokyonight&layout=compact)
 
 
 - 📫 How to reach me **ramirbia000@gmail.com**
