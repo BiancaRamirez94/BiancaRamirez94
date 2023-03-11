@@ -1,5 +1,5 @@
-<h1 align="center" Hi there, My name is Bianca ✨ </h1>
-<h2 align= "center" I am a fullstack developer ! </h2>
+<h1 align="center" >Hi there, My name is Bianca ✨ ></h1>
+<h2 align= "center" >I am a fullstack developer ! ></h2>
 
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
