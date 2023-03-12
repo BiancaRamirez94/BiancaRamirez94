@@ -18,11 +18,12 @@
        alt="snake" /></a>
   
   <h1> About Me: </h1>
-<p>
   🌱 I’m currently learning @100DEVS
   🤝 I’m looking for help with **building mobile applications & building responsive webpages**
   📫 How to reach me: **ramirbia000@gmail.com**
-  </p>
+  <p align="left">
+</p>
+  
 
 ![BiancaRamirez94 github stats](https://github-readme-stats.vercel.app/api?username=BiancaRamirez94&show_icons=true&theme=tokyonight)
 
