@@ -17,7 +17,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 
-<a href="https://iconscout.com/icons/me" target="_blank">Me Icon</a> by <a href="https://iconscout.com/contributors/roundicons-com">Roundicons.com</a> on <a href="https://iconscout.com">IconScout</a>
+<a href="https://iconscout.com/icons/me" target="_blank">Me Icon</a> by <a href="https://iconscout.com/contributors/roundicons-com">Roundicons.com</a>
 
 
 ![BiancaRamirez94 github stats](https://github-readme-stats.vercel.app/api?username=BiancaRamirez94&show_icons=true&theme=tokyonight)
