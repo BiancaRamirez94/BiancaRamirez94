@@ -20,8 +20,7 @@
   <h1> About Me: </h1>
   <ul>
     <li>🌱 I’m currently learning @100DEVS</li>
-    <li>🤝 I’m looking for help with **building mobile applications & building responsive webpages**</li>
-    <li How to reach me: **ramirbia000@gmail.com **</li>
+    <li>🤝 I’m looking to advance in mobile applications & web responsiveness**</li>
  
   
 
