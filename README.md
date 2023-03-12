@@ -21,12 +21,12 @@
   <ul>
     <li>🌱 I’m currently learning @100DEVS</li>
     <li>🤝 I’m looking for help with **building mobile applications & building responsive webpages </li>
-    <li How to reach me: **ramirbia000@gmail.com**
+    <li How to reach me: ramirbia000@gmail.com </li>
  
   
 
 ![BiancaRamirez94 github stats](https://github-readme-stats.vercel.app/api?username=BiancaRamirez94&show_icons=true&theme=tokyonight)
 
 ![BiancaRamirez94's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&theme=tokyonight&layout=compact)
-                  </li>
+                  
 </div>
