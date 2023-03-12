@@ -16,17 +16,14 @@
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-
-<a href="https://iconscout.com/icons/me" target="_blank">Me Icon</a>
+  
+  <h1> About Me: </h1>
   - 🌱 I’m currently learning **@100DEVS**
 
 - 🤝 I’m looking for help with **building mobile applications & building responsive webpages**
 
 - 📫 How to reach me **ramirbia000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ![BiancaRamirez94 github stats](https://github-readme-stats.vercel.app/api?username=BiancaRamirez94&show_icons=true&theme=tokyonight)
 
