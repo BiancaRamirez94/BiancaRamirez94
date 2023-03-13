@@ -22,10 +22,6 @@
     <li>🌱 I’m currently learning @100DEVS</li>
     <li>🤝 I’m looking to advance in mobile applications & web responsiveness</li>
  
-  
 
-![BiancaRamirez94 github stats](https://github-readme-stats.vercel.app/api?username=BiancaRamirez94&show_icons=true&theme=tokyonight)
-
-![BiancaRamirez94's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaRamirez94&theme=tokyonight&layout=compact)
                   
 </div>
